@@ -1,0 +1,13 @@
+{
+  "name"         : "lets-scrape",
+  "version"      : "0.0.1",
+  "description"  : "web scrapin",
+  "main"         : "server.js",
+  "author"       : "luffles",
+  "private": true,
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
